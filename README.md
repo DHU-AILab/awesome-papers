@@ -1,7 +1,7 @@
 # awesome-papers
 
 ---
-怎么打卡？<br>
+## 怎么打卡？<br>
 1.在本仓库下创建[姓名]文件夹，之后内容上传到本人文件夹下。<br>
 ![image](https://github.com/DHU-AILab/awesome-papers/assets/104660431/9cfa23a2-9963-46c5-9bc4-e1900f3157b7)
 2.频率规定为每周至少两篇，方向不限，内容不限。<br>
