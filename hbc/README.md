@@ -1,4 +1,4 @@
-# 论文学习
+# 已完成
 
 
 2024/7/14 《A Survey of Embodied AI From Simulators to Research Tasks》<br>
