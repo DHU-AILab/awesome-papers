@@ -17,5 +17,6 @@ cym | ---- | ----
 3.上传打卡内容：论文原文+笔记（格式不限）等。<br>
 4.各同学文件夹内部分自行随意开发。
 
-## Star History Chart
+## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=DHU-AILab/awesome-papers/&type=Date)](https://star-history.com/#DHU-AILab/awesome-papers/&Date)
